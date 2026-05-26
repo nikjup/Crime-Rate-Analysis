@@ -23,7 +23,6 @@ This project analyzes crime datasets using Microsoft Power BI and visualizes ins
 - VR/AR support
 
 crime-rate-analysis/
-│
 ├── Dataset/
 ├── PowerBI/
 ├── Unity/
